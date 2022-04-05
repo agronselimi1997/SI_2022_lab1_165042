@@ -1,5 +1,5 @@
 Monitor x 2
-Keyboard x 1 
+Keyboard x 2 
 Mouse x 1
 HDD x 2
 CPU x 2
